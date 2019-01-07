@@ -5,5 +5,8 @@ void poo(){
     printf("Liang makes me very disappointed!\n");
 }
 void noo(){
-    printf("So I hate him very much\n");
+    printf("So I hate him very much.\n");
+}
+void doo(){
+    printf("But he always does some stupid things.\n");
 }

@@ -4,6 +4,7 @@
 void printword();
 void poo();
 void noo();
+void doo();
 
 int main()
 {
@@ -11,5 +12,6 @@ int main()
     printword();
     poo();
     noo();
+    doo();
     return 0;
 }
