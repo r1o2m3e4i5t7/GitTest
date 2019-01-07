@@ -1,3 +1,6 @@
+#include <stdio.h>
+#include <stdlib.h>
+
 void printword(){
     printf("Chen Cheng Liang is an ass-hole!!!\n");
 }
